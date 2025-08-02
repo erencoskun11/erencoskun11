@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erencoskun11
-- 👀 I’m interested in .net and react.js
+- 👀 I’m interested in .net and angular.js
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me eren1coskun11@gmail.com
